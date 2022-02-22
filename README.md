@@ -3,6 +3,7 @@
 - 🎓 Formada como Desenvolvedora Web Java Junior pela Generation Brasil
 - ✏ Estudando Java
 - 😄 Pronomes: ela/dela
+- 📌 São Paulo/SP
 
 <div align="center">
   <a href="https://github.com/anadantasp">
