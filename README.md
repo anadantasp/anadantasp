@@ -1,9 +1,5 @@
-### Olá! Eu sou a Ana
-
-- 🎓 Formada como Desenvolvedora Web Java Junior pela Generation Brasil
-- ✏ Estudando Java
-- 😄 Pronomes: ela/dela
-- 📌 São Paulo/SP
+- Cursando Análise e Desenvolvimento de Sistemas na FIAP
+- Formada como Desenvolvedora Web Java Junior pela Generation Brasil
 
 <div align="center">
   <a href="https://github.com/anadantasp">
